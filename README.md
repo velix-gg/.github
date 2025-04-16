@@ -15,7 +15,4 @@ Willkommen im offiziellen Dev-Repository von **VelixGG** – einem 🔥 **Minecr
 
 ---
 
-🌐 **VelixGG** – Mehr als nur ein Server.  
-Gemeinsam bauen wir die Zukunft von Minecraft. 🧱💡
 
-✨ Let's code some magic! ✨
